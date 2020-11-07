@@ -55,7 +55,8 @@ body
 
 footer
 {
-    background-color: azure;
-    font-style: italic;
+    background:#777;
+    color: white;
+    text-align: center;
     
 }
