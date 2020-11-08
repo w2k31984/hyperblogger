@@ -55,6 +55,7 @@ body
 
 footer
 {
+<<<<<<< HEAD
     background:rgb(207, 205, 205);
     color: white;
     text-align: center;
@@ -62,3 +63,10 @@ footer
 
     
 }
+=======
+    background:#777;
+    color: white;
+    text-align: center;
+    
+}
+>>>>>>> 91b386e0487f6772013f402e123adc5d112df96e
